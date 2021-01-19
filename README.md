@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm Matthew Willox, a developer living in Edmonton, Alberta, Canada
--->
 
 - 🔭 I’m currently working on being the Director of Interactive at [FKA](https://fka.agency)
 - 🌱 I’m currently learning anything I can, always and forever.
