@@ -1,6 +1,6 @@
-### Hi there 👋
+### ✨ HELLO ✨
 
-I'm Matthew Willox, a developer living in Edmonton, Alberta, Canada
+I'm _Matthew Willox_, a developer living in Edmonton, Alberta, Canada
 - [⚡💥⭐💥⚡](https://y.at/⚡💥⭐💥⚡)
 - 🔭 I’m currently working on being the Director of Interactive at [FKA](https://fka.agency)
 - 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in Web3 technologies.
