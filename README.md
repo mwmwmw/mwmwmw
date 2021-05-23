@@ -1,9 +1,11 @@
 ### ✨ HELLO ✨
 
 I'm _Matthew Willox_, a developer living in Edmonton, Alberta, Canada
-- [⚡💥⭐💥⚡](https://y.at/⚡💥⭐💥⚡)
+I run a small company called _Cybermancers._
+
+- Yat [⚡💥⭐💥⚡](https://y.at/⚡💥⭐💥⚡)
 - 🔭 I’m currently working on being the Director of Interactive at [FKA](https://fka.agency)
-- 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in Web3 technologies.
+- 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in Web3 technologies and Solidity.
 - 👯 I’m looking to collaborate on anything music or arts related.
 - 🤔 I’m looking for help with multiple projects.
 - 💬 Ask me about Web Audio API, WebGL, and React
@@ -13,9 +15,9 @@ I'm _Matthew Willox_, a developer living in Edmonton, Alberta, Canada
 - 🧪 Experiments + Fun Stuff: [Codepen](https://codepen.io/mwmwmw)
 - 🛠️ Tinkering + Prototypes: [Codesandbox](https://codesandbox.io/u/mwmwmw)
 
-<a href="https://github.com/mwmwmw">
-<img align="center" alt="Matthew's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mwmwmw&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<!-- <a href="https://github.com/mwmwmw">
+<img align="center" alt="Matthew's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mwmwmw&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
 
-<a href="https://github.com/mwmwmw">
+<!-- <a href="https://github.com/mwmwmw">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mwmwmw&layout=compact&theme=radical" />
-</a>
+</a> -->
