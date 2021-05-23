@@ -1,7 +1,6 @@
 ### ✨ HELLO ✨
 
-I'm _Matthew Willox_, a developer living in Edmonton, Alberta, Canada
-I run a small company called _Cybermancers._
+I'm _Matthew Willox_. I run a small company called _Cybermancers._
 
 - Yat [⚡💥⭐💥⚡](https://y.at/⚡💥⭐💥⚡)
 - 🔭 I’m currently working on being the Director of Interactive at [FKA](https://fka.agency)
