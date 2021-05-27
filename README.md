@@ -3,7 +3,6 @@
 I'm _Matthew Willox_. I run a small company called _Cybermancers._
 
 - Yat [⚡💥⭐💥⚡](https://y.at/⚡💥⭐💥⚡)
-- 🔭 I’m currently the owner/operator of CYBERMANCERS. 
 - 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in Web3 technologies and Solidity.
 - 👯 I’m looking to collaborate on anything music or arts related.
 - 🤔 I’m looking for help with multiple projects.
