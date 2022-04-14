@@ -6,9 +6,9 @@
 
 I'm _Matthew Willox_. I run a small company called _[Cybermancers](https://cybermancers.ca)._ 
 
-- 📫 Contact me [info@cybermancers.ca](mailto:info@cybermancers.ca) if you require my services.
-- +20 year development veteran. 
-- You can find links to my various projects on my Yat [⚡💥⭐💥⚡](https://y.at/⚡💥⭐💥⚡) page
+- 📫 If you have a project you'd like to discuss, book a time on my [Calendly](https://calendly.com/cybermancers)
+- 👴 +20 year development veteran. 
+- 🧑‍🍳 You can find links to my various projects on my Yat [⚡💥⭐💥⚡](https://y.at/⚡💥⭐💥⚡) page
 - 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in Web3 technologies and Solidity.
 - 💪 My _core_ development skill is JavaScript.
 - 💬 Ask me about Web Audio API, WebGL, Unity3d, WebXR, and React
