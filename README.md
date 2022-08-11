@@ -6,7 +6,7 @@
 
 I'm _Matthew Willox_. I run a small company called _[Cybermancers](https://cybermancers.ca)._ 
 
-- 📫 If you have a project you'd like to discuss, book a time on my [Calendly](https://calendly.com/cybermancers)
+- 📫 If you have a project you'd like to discuss, send me an email [info@cybermancers.ca](mailto:info@cybermances.ca)
 - 👴 +20 year development veteran. 
 - 🧑‍🍳 You can find links to my various projects on my Yat [⚡💥⭐💥⚡](https://y.at/⚡💥⭐💥⚡) page
 - 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in Web3 technologies and Solidity.
