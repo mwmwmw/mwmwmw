@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/889851/162593002-aba465e1-ef0a-4599-b5e9-10a218654597.png)
 
-
-
 # ✨ HELLO ✨
 
 I'm _Matthew Willox_. I run a small company called _[Cybermancers](https://cybermancers.ca)._ 
