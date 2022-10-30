@@ -2,7 +2,7 @@
 
 # ✨ HELLO ✨
 
-I'm _Matthew Willox_. I run a small company called _[Cybermancers](https://cybermancers.ca)._ You can hire my services on [Contra](https://contra.com/matthew_willox).
+I'm _Matthew Willox_. I run a small company called _[Cybermancers](https://cybermancers.ca)._ You can hire my services on [Contra](https://contra.com/cybermancers).
 
 - 📫 If you have a project you'd like to discuss, send me an email [info@cybermancers.ca](mailto:info@cybermances.ca)
 - 👴 +20 year development veteran. 
