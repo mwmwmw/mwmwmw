@@ -7,12 +7,12 @@ I'm _Matthew Willox_. I run a small company called _[Cybermancers](https://cyber
 - 📫 If you have a project you'd like to discuss, send me an email [info@cybermancers.ca](mailto:info@cybermances.ca)
 - 👴 +20 year development veteran. 
 - 🧑‍🍳 You can find links to my various projects on my [Linktree](https://matthewwillox.art/linktree) page
-- 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in Web3 technologies and Solidity.
+- 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in WebGPU and Rust.
 - 💪 My _core_ development skill is JavaScript.
 - 💬 Ask me about Web Audio API, WebGL, Unity3d, WebXR, and React
 - 👯 I’m looking to collaborate on anything music or arts related.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a cat named Oryx (after the book Oryx and Crake by Margaret Atwood). She is fat and fluffy. I once wrote a song about her. You can listen to it on [Spotify](https://open.spotify.com/track/27JPeIK9G3NPBO0jY3pbRE?si=7XHa9s4kQuWeqbdoP4FzFg)
+- ⚡ Fun fact: I write songs about my cats. [Spotify](https://open.spotify.com/track/27JPeIK9G3NPBO0jY3pbRE?si=7XHa9s4kQuWeqbdoP4FzFg)
 - 🧪 Experiments + Fun Stuff: [Codepen](https://codepen.io/mwmwmw)
 - 🛠️ Tinkering + Prototypes: [Codesandbox](https://codesandbox.io/u/mwmwmw)
 
