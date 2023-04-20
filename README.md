@@ -5,7 +5,6 @@
 I'm _Matthew Willox_. I run a small company called _[Cybermancers](https://cybermancers.ca)._ You can hire my services on [Contra](https://contra.com/cybermancers).
 
 - 📫 If you have a project you'd like to discuss, send me an email [info@cybermancers.ca](mailto:info@cybermances.ca)
-- 👴 +20 year development veteran. 
 - 🧑‍🍳 You can find links to my various projects on my [Linktree](https://matthewwillox.art/linktree) page
 - 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in WebGPU and Rust.
 - 💪 My _core_ development skill is JavaScript.
