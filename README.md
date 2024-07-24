@@ -2,12 +2,11 @@
 
 # ✨ HELLO ✨
 
-I'm _Matthew Willox_. I run a small company called _[Cybermancers](https://cybermancers.ca)._ You can hire my services on [Contra](https://contra.com/cybermancers).
+I'm _Matthew Willox_. I'm a creative developer for [Lift Interactive](https://liftinteractive.com).
 
-- 📫 If you have a project you'd like to discuss, send me an email [info@cybermancers.ca](mailto:info@cybermances.ca)
 - 🧑‍🍳 You can find links to my various projects on my [Linktree](https://matthewwillox.art/linktree) page
-- 🌱 I’m currently learning anything I can, always and forever. Right now I'm interested in WebGPU and Rust.
-- 💪 My _core_ development skill is JavaScript.
+- 🌱 I’m currently learning development for hardware, specifically Teensy and Daisy for the purposes of music production.
+- 💪 My _core_ development skill is JavaScript. 
 - 💬 Ask me about Web Audio API, WebGL, Unity3d, WebXR, and React
 - 👯 I’m looking to collaborate on anything music or arts related.
 - 😄 Pronouns: He/Him
